@@ -1,0 +1,16 @@
+{
+  "name": "deskpro/deskpro_api_client_php",
+  "require": {
+    "php": ">=5.5",
+    "guzzlehttp/guzzle": "^6.2"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^1.11",
+    "phpspec/phpspec": "2.5.7"
+  },
+  "autoload": {
+    "psr-0": {
+      "DeskPROClient\\": "src/"
+    }
+  }
+}
