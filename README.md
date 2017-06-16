@@ -264,14 +264,14 @@ $result = $client->sendPut('tickets/1', [
 ]);
 ```
 
-**$client->sendDelete($endpoint, array $queryParams = [])**
+**$client->sendDelete($endpoint, array $queryParams = [], $data = null)**
 
 ```php
 // returns NoContentResponse
 $result = $client->sendDelete('tickets/1');
 ```
 
-### Side-loading:
+### Side-loading
 
 ```php
 $request = $client->tickets()->find()
