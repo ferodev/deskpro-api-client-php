@@ -1,6 +1,6 @@
 # DeskPRO PHP API Client Library
 
-[![Build Status](https://travis-ci.org/DeskPRO/deskpro-api-client-php.svg?branch=master)](https://travis-ci.org/DeskPRO/deskpro-api-client-php)
+[![Build Status](https://travis-ci.org/deskpro/deskpro-api-client-php.svg?branch=master)](https://travis-ci.org/deskpro/deskpro-api-client-php)
 
 ## Requirements
 
