@@ -85,7 +85,7 @@ $request
     ->orderBy('person')
     ->orderDir('desc')
     ->count(10)
-    ->paget(2)
+    ->page(2)
 ;
 
 // returns DataResponse
