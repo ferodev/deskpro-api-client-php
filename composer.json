@@ -1,5 +1,5 @@
 {
-  "name": "deskpro/deskpro-api-client-php",
+  "name": "ferodev/deskpro-api-client-php",
   "description": "PHP client for use with the Deskpro API.",
   "type": "library",
   "config": {
